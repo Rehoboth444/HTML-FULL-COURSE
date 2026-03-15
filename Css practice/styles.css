@@ -1,0 +1,44 @@
+.Bootstrap-button {
+  background-color: rgb(121, 82, 179);
+  color: #ffffff;
+  height: 35px;
+  width: 120px;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.download-button {
+  color: rgb(121, 82, 179);
+  background-color: #ffffff;
+  height: 35px;
+  width: 100px;
+  border-radius: 4px;
+  font-weight: bold;
+  border-style: double;
+  border-width: 1px;
+  border-color: rgb(121, 82, 179);
+}
+
+.LinkedIn {
+  background-color: rgb(10, 102, 194);
+  color: #ffffff;
+  height: 35px;
+  width: 200px;
+  border: none;
+  border-radius: 100px;
+  font-weight: bold;
+}
+
+.save-button {
+  color: rgb(10, 102, 194);
+  background-color: #ffffff;
+  height: 35px;
+  width: 100px;
+  border-radius: 4px;
+  font-weight: bold;
+  border-style: double;
+  border-radius: 50px;
+  border-width: 1px;
+  border-color: rgb(10, 102, 194);
+}
